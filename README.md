@@ -1,4 +1,4 @@
-_ Very simple scripts to install archlinux on virtualbox _
+_Very simple scripts to install archlinux on virtualbox_
 
 # 1
 Mount folder with scripts folder

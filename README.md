@@ -5,4 +5,4 @@ Mount folder with scripts folder
 Run the installation iso, and run ``` InstallArch.sh ``` 
 
 # 3
-Run in user login ```VirtualBoxSharedFolder.sh``` for enabled shared folder
+Run in user login ```VirtualBoxSharedFolder.sh``` to enable shared folders
